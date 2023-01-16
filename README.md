@@ -37,7 +37,7 @@ do {
 ## Github status
 
 <a href="https://github.com/t-aaago">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aaago&theme=dracula&show_icons=true&layout=compact" alt="linguagens mais usadas">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aaago" alt="linguagens mais usadas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=t-aaago&theme=dracula&show_icons=true" alt="T-aaago status" />
 </a>
 <br/>
