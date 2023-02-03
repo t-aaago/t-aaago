@@ -22,7 +22,8 @@ const myLife = () => {
     age: 18,
     languages: [
         "python",
-        "loading javascript....",
+        "javascript",
+        "loading typescript..."
     ],
   };
 };
