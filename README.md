@@ -36,9 +36,8 @@ do {
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ff5555&height=2&section=header)
 
 ## Github status
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-aaago&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-aaago&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-aaago&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-aaago&show_icons=true&theme=dracula)
 
 <br/>
 <br/>
