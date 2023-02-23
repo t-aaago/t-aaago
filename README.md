@@ -23,7 +23,7 @@ const myLife = () => {
     languages: [
         "python",
         "javascript",
-        "loading typescript..."
+        "typescript..."
     ],
   };
 };
