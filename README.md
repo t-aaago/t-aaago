@@ -12,7 +12,6 @@ Acadêmico de Ciência da Computação - UFPA :skull:
 
 • Atualmente focado em ter dor de cabeça com programação e faculdade. 
 
-• Voluntário do Labiocad (Laboratório de Bioinformática e Computação de Alto Desempenho) da UFPA
 
 
 ```javascript
@@ -21,6 +20,7 @@ const myLife = () => {
     name: "Tiago Oliveira",
     age: 18,
     languages: [
+        "C",
         "python",
         "javascript",
         "typescript..."
