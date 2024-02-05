@@ -18,7 +18,7 @@ Acadêmico de Ciência da Computação - UFPA :skull:
 const myLife = () => {
   return {
     name: "Tiago Oliveira",
-    age: 18,
+    age: 19,
     languages: [
         "C",
         "C++...",
