@@ -11,28 +11,7 @@
 Acadêmico de Ciência da Computação - UFPA :skull:
 
 • Atualmente focado em ter dor de cabeça com programação e faculdade. 
-
-
-
-```javascript
-const myLife = () => {
-  return {
-    name: "Tiago Oliveira",
-    age: 19,
-    languages: [
-        "C",
-        "C++...",
-        "python",
-        "javascript",
-        "typescript..."
-    ],
-  };
-};
-
-do {
-  myLife();
-} while (alive);
-```
+• Sistemas embarcados.
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ff5555&height=2&section=header)
 
