@@ -9,10 +9,7 @@
 </p>
 
 Acadêmico de Ciência da Computação - UFPA
-
-• Atualmente focado em ter dor de cabeça com programação e faculdade. <\br>
-• Só coloco aqui o que vale a pena.<\br>
-• Sistemas embarcados.
+• Só coloco aqui o que vale a pena.
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ff5555&height=2&section=header)
 
