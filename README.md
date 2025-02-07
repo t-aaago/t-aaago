@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=220&section=header)
 
-# Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Tiago
+# Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
     <a href="mailto:tiagoliveira003@gmail.com">
@@ -8,16 +8,16 @@
     </a>
 </p>
 
-Acadêmico de Ciência da Computação - UFPA :skull:
+Acadêmico de Ciência da Computação - UFPA
 
-• Atualmente focado em ter dor de cabeça com programação e faculdade. 
+• Atualmente focado em ter dor de cabeça com programação e faculdade.
+• Só coloco aqui o que vale a pena.
 • Sistemas embarcados.
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ff5555&height=2&section=header)
 
 ## Github status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-aaago&show_icons=true&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-aaago&show_icons=true&theme=dracula)
 
 <br/>
 <br/>
