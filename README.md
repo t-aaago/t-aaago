@@ -2,14 +2,7 @@
 
 # Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center">
-    <a href="mailto:tiagoliveira003@gmail.com">
-        <img src="https://img.shields.io/badge/-tiagoliveira003@gmail.com-7289DA?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagoliveira003@gmail.com" alt="gmail"/>
-    </a>
-</p>
-
-Acadêmico de Ciência da Computação - UFPA
-• Só coloco aqui o que vale a pena.
+Só coloco aqui o que vale a pena.
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ff5555&height=2&section=header)
 
